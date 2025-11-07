@@ -3,12 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>GiftNode</title>
-  <style>
-    body { font-family: -apple-system, sans-serif; background: #F4EEE9; color: #333; padding: 40px; }
-    h1 { color: #000; }
-    p { font-size: 18px; line-height: 1.6; }
-    a { color: #007AFF; text-decoration: none; }
-  </style>
+ 
 </head>
 <body>
   <h1>Поддержка приложения</h1>
