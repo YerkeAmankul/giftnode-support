@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>GiftNode</title>
+  GiftNode
  
 </head>
 <body>
